@@ -27,3 +27,7 @@ int main() {
   std::cout << std::endl;
   return 0;
 }
+
+#include <iostream>
+
+long Factorial 
